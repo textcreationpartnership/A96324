@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse of the decay of trade the necessity of recovering: the danger of neglecting: the advantage of effecting: with the proper means to accomplish the same; whereby the war if self will become as certainly advantageous, as a peace will be destructive. Humbly presented by James Whiston.</title>
+            <author>Whiston, James, 1637?-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96324</idno>
+            <idno type="STC">Wing W1685</idno>
+            <idno type="STC">ESTC R220593</idno>
+            <idno type="EEBO-CITATION">99831989</idno>
+            <idno type="PROQUEST">99831989</idno>
+            <idno type="VID">153753</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96324)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153753)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21242:5 or 2377:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse of the decay of trade the necessity of recovering: the danger of neglecting: the advantage of effecting: with the proper means to accomplish the same; whereby the war if self will become as certainly advantageous, as a peace will be destructive. Humbly presented by James Whiston.</title>
+                  <author>Whiston, James, 1637?-1707.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Samuel Crouch, at the corner of Popes-Head-Alley, next Cornhil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the British Library and Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Commerce --  Early works to 1800.</term>
+               <term>Great Britain --  Commercial policy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:153753:1"/>
+            <head>A DISCOURSE OF THE Decay of Trade, The Neceſſity of Recovering: The Danger of Neglecting: The Advantage of Effecting: With the proper Means to Ac<g ref="char:EOLhyphen"/>compliſh the ſame.</head>
+            <head type="sub">Whereby the <hi>War</hi> it ſelf will become as certainly Advantageous, as a <hi>Peace</hi> will be Deſtructive. Humbly Preſented by <hi>James Whiſton.</hi>
+            </head>
+            <p>WHilſt <hi>England</hi> had few or no Rivals in <hi>Trade,</hi> and the Ri<g ref="char:EOLhyphen"/>ches of the World flow'd into her Lap, ſhe Lived at Eaſe (ſlumbring in the Downy <hi>Bed</hi> of Peace) wallowed in Pleaſures, and had no other Unhappyneſs, but in being too happy; Her Abundance begot Idleneſs, and that a Stupid Security; ſo that ſhe was not at Leizure, either to Improve her own Advantages, or Countercheck the Deſigns of her Neighbours, who Aggrandize them<g ref="char:EOLhyphen"/>ſelves at our Expence and Impoveriſhment.</p>
+            <p>But now 'tis high time to awaken all the Vital Powers of State, and rouze the very Soul of Government from this ſlothful Lethargie, to ſee the Danger of our Condition, and provide for a Remedy; For if the Kingdom conſults either her Safety or Greatneſs, the only means of acquiring thoſe Signal Bleſſings, is, by making her ſelf Miſtreſs of the Seas: That, once obtain'd (which with Submiſſion) by theſe Me<g ref="char:EOLhyphen"/>thods humbly offer'd, and effectually purſued, (by Divine Aſſiſtance may undoubtedly be accompliſhed) ſhe has a fair Aſſurance, (without
+<pb n="2" facs="tcp:153753:2"/>the horrour of much War, hazard of Mighty Armies, and Charge of Numerous Garriſons) of gaining the Chief Trade of the World, which we above all Nations upon Earth, have at this time, not only the faireſt opportunity, but the greateſt Neceſſity of Endeavouring to ob<g ref="char:EOLhyphen"/>tain. Foraſmuch as the Strength or Weakneſs, Wealth or Poverty of this Kingdom wholly depends upon the Good or Ill Management of Fo<g ref="char:EOLhyphen"/>reign <hi>Trade,</hi> into which (as into a wide Wilderneſs) Thouſands are En<g ref="char:EOLhyphen"/>ter'd, yet few or none (though of the largeſt Experience) are able to comprehend the vaſt Advantages thereby accruing to the Publick. For oftentimes the Merchant may get when the Publick looſes, and as fre<g ref="char:EOLhyphen"/>quently the Publick may get when the Merchant looſes; both which ought to be Joyntly provided for, ſince it is not Juſt that either ſhould be prejudiced; in regard the Publick muſt be taken care of, and the Merchant is as it were the Steward of the Kingdoms Stock, which by his Good or Ill Management, proportionably either Languiſhes or Increaſes.</p>
+            <p>Therefore how highly is it the Indiſpenſable Concernment of the Go<g ref="char:EOLhyphen"/>vernment, to make it their utmoſt Care and Labour to Underſtand, Pre<g ref="char:EOLhyphen"/>ſerve, and Improve this <hi>one thing neceſſary,</hi> which ſince Trade hath been known, hath never been rightly managed, and without which amend<g ref="char:EOLhyphen"/>ment we can never be happy: But if we gain the Aſcendant over her (who is now the Worlds moſt Celebrated and Courted Miſtreſs) we ſhall without undertaking much of the Toyls of <hi>Alexander</hi> and the <hi>Caeſars,</hi> make our ſelves in Effect Maſters of the Four Quarters of the Earth, and all <hi>England</hi> become as one City of <hi>Trade,</hi> and the General <hi>Emporie</hi> of the World.</p>
+            <p>Hereby the Nation will be abundantly Enriched, and Money being the very Life of War, and Sinews of all Publick Action, we ſhall be enabled to bring the World into a <hi>Dependant</hi> Awe, ſend out our Super<g ref="char:EOLhyphen"/>fluities at what Profit we pleaſe, and alſo return the Richeſt Commodi<g ref="char:EOLhyphen"/>ties of the Remoteſt Climates at our own Prices: The People will be Contented, and the Exchequer maintained in a Full Spring <hi>Tide,</hi> ready to encounter all Emergencyes; ſo that it can't be within the reach of the Worlds United Power to do us prejudice.</p>
+            <p>Neither will the Subject only, but His Majeſty alſo reap an Equal Advantage: It will render him a King of Free and Able Men, which is far more Glorious than to be a King of <hi>Slaves, Beggars,</hi> and <hi>Bankrupts:</hi> And it is an undeniable <hi>Maxime</hi> in all States, That 'tis leſs dangerous and diſhonour for the <hi>Prince</hi> to be poor, than his People; Rich Subjects can make their King Rich when they pleaſe: If He gain their Hearts, He will quickly be Maſter of their Purſes. This would exceedingly raiſe our Reputation abroad, and enable His Majeſty to keep his Ene<g ref="char:EOLhyphen"/>mies in Fear, his Subjects in Peace, and his Confederates in Security.</p>
+            <p>For, Since the Introduction of the New Artillery of <hi>Powder Guns,</hi> &amp;c. and the Diſcovery of the Wealth of the <hi>Indies, &amp;c.</hi> War is become rather an Expence of Money than Men, and Suc<g ref="char:EOLhyphen"/>ceſs attends thoſe that can moſt and longeſt ſpend Money: Whence it is that Princes Armies in <hi>Europe</hi> are become more proportio<g ref="char:EOLhyphen"/>nable to their <hi>Purſes</hi> than to the Number of their People; So that it un<g ref="char:EOLhyphen"/>controulably follows that a Foreign <hi>Trade</hi> Managed to the beſt Advan<g ref="char:EOLhyphen"/>tage, will make our Nation ſo Strong and Rich, that we may Com<g ref="char:EOLhyphen"/>mand the Trade of the World, the Riches of it, and conſequently the
+<pb n="3" facs="tcp:153753:2"/>World it ſelf; eſpecially now a dayes, ſince no Obligation either of Re<g ref="char:EOLhyphen"/>ligion or Allegiance, ſo much prevails upon Military Men as the certain proſpect of Reward, being chiefly Influenced by their <hi>Pay,</hi> as the Price of their <hi>Blood.</hi>
+            </p>
+            <p>Neither will the perſuing theſe Propoſals, augment the Nations <hi>Wealth</hi> and <hi>Power</hi> only, but that <hi>Wealth</hi> and <hi>Power</hi> will alſo preſerve our <hi>Trade</hi> and <hi>Religion,</hi> they mutually working for the preſervation of each other, and vaſtly Increaſe Induſtrious People: And ſince thoſe who live by the Arts, are far more in Number than they who are Maſters of the Fruits, we ought the rather to Maintain the Endeavours of the Multitude, in whom doth conſiſt the greateſt Strength and Riches both of <hi>King,</hi> and <hi>Kingdom.</hi>
+            </p>
+            <p>Where <hi>Trade</hi> is, there will be Imployment: Where Imployment is, thither People will reſort: And where People reſort, there will be a Con<g ref="char:EOLhyphen"/>ſumption of Commodities, and thereby the Publick Revenue will be raiſed, ſo that would we once make <hi>Trade</hi> flouriſh, we need not doubt, but People from all parts of the <hi>Globe,</hi> would reſort hither to enjoy them<g ref="char:EOLhyphen"/>ſelves, and Improve their Stocks: For Trade is the <hi>Life-Blood</hi> that runs through the Veins of the Nation, that moves, maintains, and enlivens the whole Body of the People from the meaneſt Cottage, to the <hi>Royal Throne;</hi> So Bountiful is it, that it would extend it ſelf to all Sorts, and Conditions of Men.</p>
+            <p>And though moſt Nations are ſenſible of this great Benefit (particu<g ref="char:EOLhyphen"/>larly the <hi>Dutch</hi> and <hi>French</hi>) who owe their Strength and Greatneſs to the Favour of <hi>Trade,</hi> yet neither of them are able to compare with us, either in Quantities of Native Commodities, Manufactures, and Artiſts, or of Neighbourhood to the Sea, Convenient Ports, Goodneſs of Ship<g ref="char:EOLhyphen"/>ping, great Numbers of Rich Merchants, and Tradeſmen (who have beyond others a Natural <hi>Genius</hi> of Underſtanding the Miſtery of <hi>Trade,</hi>) Able Marriners, Proviſion of Victuals, <hi>&amp;c.</hi> All which happily concur in our Dominions (divided from all the World beſides by a <hi>Wall</hi> of Wa<g ref="char:EOLhyphen"/>ter) as if God and Nature had deſigned this <hi>Iſland</hi> for the Grand <hi>Mar<g ref="char:EOLhyphen"/>ket</hi> of the <hi>
+                  <g ref="char:V">Ʋ</g>niverſe.</hi>
+            </p>
+            <p>Not only the Increaſe of Seamen, and Shipping (thoſe <hi>Bulwarks</hi> of the <hi>Brittiſh</hi> Empire,) the Incouragement of Manufactories, but the In<g ref="char:EOLhyphen"/>creaſe of Induſtrious Inhabitants, (which if duely Imploy'd can never be too many, their Multitudes being always the Original Riches, as well as Strength of this Nation) and the raiſing the Value of Land, and Improving of Rents, the Products of good Husbandry, and in fine, all the Happyneſs and Glory of <hi>England</hi> depends upon the Encouragement and good Management of <hi>Trade;</hi> which for want thereof (being out<g ref="char:EOLhyphen"/>done by our Neighbours) is ſo far declined, that it now cries aloud for all the Art and Induſtry of the <hi>Government</hi> to Regain and Preſerve her from utter Ruine: For except the Breaches made in her, are timely Repair'd, the Nation muſt unavoidably ſink into <hi>Chaos,</hi> and Con<g ref="char:EOLhyphen"/>fuſion.</p>
+            <p>Wherefore ſince <hi>Schools, <g ref="char:V">Ʋ</g>niverſities, Inns of Court</hi> and <hi>Colledges</hi> have been Erected for the Advancement of <hi>Arts</hi> and <hi>Learning</hi> with <hi>Regula<g ref="char:EOLhyphen"/>tions</hi> and <hi>Inſpectors</hi> for the better Government of their ſeveral Facul<g ref="char:EOLhyphen"/>ties, which are out of all Compariſon with the Fruits of a duely regu<g ref="char:EOLhyphen"/>lated <hi>Trade,</hi> by which they are all maintain'd: And withal conſidering that this Great <hi>Lady</hi> (affecting Freedom and Security hath no Inclina<g ref="char:EOLhyphen"/>tion
+<pb n="4" facs="tcp:153753:3"/>to continue under the <hi>Arbitrary</hi> Power of ſome <hi>Princes,</hi> nor the uncertain Fate of others; with whom ſhe hath reſided only as a Sojour<g ref="char:EOLhyphen"/>nour) (notwithſtanding ſhe hath been very highly careſs'd and em<g ref="char:EOLhyphen"/>brac'd by them) is ready to eſpouſe both our Intereſt and Nation, and with her ſelf bring in Dowry the Treaſures of the World, if we would but vouchſafe to give her a ſpeedy and kind Entertainment; being very ſenſible of the great Advantage we give her<g ref="char:punc">▪</g> not only by our Free En<g ref="char:EOLhyphen"/>joyment of Civil Rights, and Properties, but by knocking off the Shackles upon Conſcience, the Continuance of which ſo long Depopu<g ref="char:EOLhyphen"/>lated this Nation, both by diſcouraging Ingenious Perſons from Repair<g ref="char:EOLhyphen"/>ing hither, and by forcing thoſe of our own Countrey to ſeek Freedom elſewhere, and Cramping the Induſtry of others that remain by rendring them a prey to each other: Which deadly Wound did not end here, but Debauchery and Prophaneneſs were encreas'd to ſuch Degree, that the Nation was diſſolved in Luxury, and Intemperance, whilſt the <hi>French</hi> had the Wit to take the Advantage of our Negligence, by En<g ref="char:EOLhyphen"/>couraging Induſtry and Commerce (which all the while we were La<g ref="char:EOLhyphen"/>bouring to overthrow and undervalue,) By which means chiefly he is become ſo troubleſome to us, and ſo dreadful to ſome of our Neighbours.</p>
+            <p>How abſolutely neceſſary is it then that all poſſible endeavours be made (as the Examples of our Neighbours Succeſsful Induſtry, and our own Sloth and neglect ſufficiently warn us) to ſtudy the ableſt Means and Methods for Improvement of <hi>Trade,</hi> to be conſidered and diſcuſſed by proper Judges of the Caſe, (<hi>Viz.</hi> a Select <hi>Society</hi> or <hi>Committee</hi> of <hi>Traders</hi> accordingly Skill'd and Experienced:) By which means we ſhould ſoon feel the warm Beams thereof extending their Bountiful In<g ref="char:EOLhyphen"/>fluence over the whole Kingdom.</p>
+            <p>Upon the Fitneſs of Perſons choſen depends the Good or Ill Succeſs of this Great Deſign, For, the Arts-Man is ever the beſt Councellour in his own Profeſſion, and every Honeſt Able Man is ſafeſt to be Credi<g ref="char:EOLhyphen"/>ted in the better Improvement of the Miſtery he profeſſes. If the bu<g ref="char:EOLhyphen"/>ſineſs of Salvation be in Debate, we apply our ſelves to ſome profeſſing the <hi>Miniſtry:</hi> If the Diſpute be concerning the <hi>Title</hi> to an Eſtate, we diſire the Judgment of a <hi>Lawyer:</hi> If Sick, we Conſult a <hi>Phyſitian:</hi> So when the <hi>Trade</hi> of a Nation is to be Secured or Advanced, the <hi>Mer<g ref="char:EOLhyphen"/>chants</hi> and <hi>Tradeſmans</hi> Advice is queſtionleſs beſt able to accompliſh the ſame: For let any Vers'd in <hi>Trade</hi> but reflect, how many Interfering Accidents belong to that Miſtery, and how many various Shapes every Branch of it hath taken before it arriv'd to Perfection; and they will conclude it impoſſible for Noblemen and Gentlemen not Educated in <hi>Trade,</hi> ever to Arrive at a perfect Underſtanding of the Matters in Queſtion; for want of which their Judgments are Abus'd by Clamour, Importunity, Prejudice, Partiality, or ſome other prevailing Bias; and ſeldom or never if the Matter be of Importance enough to require De<g ref="char:EOLhyphen"/>bating, come to a right Deciſion; to the manifeſt Abuſe of the People, Dammage of the Nation, and Diſparagement of that <hi>Council</hi> or <hi>Com<g ref="char:EOLhyphen"/>mittee.</hi>
+            </p>
+            <p>Therefore that the Predominancy of that <hi>many headed-Monſter</hi> Pri<g ref="char:EOLhyphen"/>vate <hi>Intereſt,</hi> that hath ſpun ſo fine a Thread, and twiſted it ſelf in<g ref="char:EOLhyphen"/>to ſo many Diſguiſes, may not inſinuate any Prejudice againſt this Propoſal: This Eſtabliſhment will be no wayes an Infringement of <hi>Royal</hi> Prerogative, nor any Intrenchment upon the Priviledges, or Invaſion
+<pb n="5" facs="tcp:153753:3"/>of the Province of our <hi>High Court of Parliament.</hi> On the contrary, it will be an uſeful Aſſiſtance and Eaſe to both, more eſpecially to that great Council, neceſſarily Subminiſtring to them, in the due Inſpection and Inquiry into Matters, and Things, which cannot ſo fully fall under their Cognizance and Examination, and accordingly be more Reputa<g ref="char:EOLhyphen"/>bly and Commodiouſly handed up to them for their Approbation: Their Doors and Ears being always open to the Pooreſt Perſon, that ſhall offer any thing of Publick Advantage.</p>
+            <p>This Committee muſt be Capable of opening a yet much fairer Light, and Inſight into <hi>Trade,</hi> (with Submiſſion) even to the Wiſdom of <hi>Par<g ref="char:EOLhyphen"/>liaments</hi> themſelves; who may thereby be the better enabled to Redreſs all thoſe Male-Adminiſtrations, and non-Improvements of <hi>Trade,</hi> which through the difficulty of Acceſs, and the Multiplicity of their other Affairs and Fatigues, cannot ſo eaſily fall under a ſufficient <hi>Parliamenta<g ref="char:EOLhyphen"/>ry</hi> Inquiry.</p>
+            <p>It is an Infallible Truth that we cannot long continue as we are; And that we can never <hi>Meliorate</hi> but by this, or ſuch like Method as here propoſed: Without ſome ſuch Helps and Succours as may be drawn from hence, we muſt go from one Diſtraction to another, till we come to be utterly deſtroyed. So that if the Earneſt Expectations of the Peo<g ref="char:EOLhyphen"/>ple be diſappointed, by making uſe of Unſuitable Expedients, the <hi>Ship</hi> of this <hi>Common-Wealth</hi> (which by Embracing the Propoſed Methods may be in a fair way of entring into a Safe <hi>Harbour</hi>) on the contrary will be driven to Sea again in a Storm, and muſt expect another favourable Wind to ſave it, and God knows whether ever that may come. For the Poize and Ballance of Affairs is not now as in former Ages. The Bulk of <hi>France</hi> is grown too unweildy for the reſt of the World; And we have (morally ſpeaking) no hopes of Redemption, from being Cruſh'd by her, if any yet greater Weight be added to her Scale.</p>
+            <p>
+               <hi>It is humbly propos'd</hi> that an Order be Iſſued forth to the Sheriffs of each County, Commanding them to give Notice to the ſeveral Mer<g ref="char:EOLhyphen"/>chants and Traders (as hereafter mentioned) to meet at a certain time to chuſe Annually Repreſentatives, By a <hi>Ballating</hi> Box, according as the afore ſaid Order ſhall Direct, To ſit at the <hi>Guild-Hall,</hi> or ſome Convenient Place in <hi>London,</hi> as a Committee fully Authoriz'd and Impower'd to Inquire and Examine into all Matters Relating to <hi>Trade.</hi>
+            </p>
+            <list>
+               <head>
+                  <hi>In</hi> London,</head>
+               <item>2 <hi>Eaſt India</hi>-Company</item>
+               <item>2 <hi>African</hi> Company</item>
+               <item>2 <hi>Turkey</hi>-Company</item>
+               <item>2 <hi>Italy</hi>
+               </item>
+               <item>2 <hi>Spain</hi>
+               </item>
+               <item>2 <hi>Portugal</hi>
+               </item>
+               <item>2 <hi>Barbadoes</hi>
+               </item>
+               <item>2 <hi>Silk Manufacturers</hi>
+               </item>
+               <item>12 Maſters of Ships choſen by <hi>Trinity-Houſe.</hi>
+               </item>
+               <item>2 <hi>Nevis</hi> and <hi>Antego</hi>
+               </item>
+               <item>2 <hi>Montſerat</hi> and St. <hi>Chriſtophers</hi>
+               </item>
+               <item>2 <hi>Jamaica</hi>
+               </item>
+               <item>2 <hi>Virginia</hi> and <hi>Mary-land</hi>
+               </item>
+               <item>2 <hi>New York</hi> and <hi>New-England</hi>
+               </item>
+               <item>2 <hi>Eaſt-Countrey</hi>
+               </item>
+               <item>2 <hi>Hamborough</hi> and <hi>Holland</hi>
+               </item>
+               <item>2 <hi>Canaries</hi> and <hi>Madera's.</hi>
+               </item>
+               <item>2 Sipwrights.</item>
+               <pb n="6" facs="tcp:153753:4"/>
+               <item>2 <hi>Northumberland</hi> for Coals</item>
+               <item>2 <hi>Darby-ſhire</hi> for Lead</item>
+               <item>2 <hi>Cornwall</hi> for Tinn</item>
+               <item>2 <hi>Devonſhire</hi> for Cloathing</item>
+               <item>2 <hi>Somerſetſhire</hi> for Cloathing</item>
+               <item>2 <hi>Wiltſhire</hi> for Cloathing</item>
+               <item>2 <hi>Yorkſhire</hi> for Cloathing</item>
+               <item>2 <hi>Norfolk</hi> for Fiſhing</item>
+               <item>1 <hi>Gloceſter</hi> and <hi>Worceſter</hi> for Cloathing.</item>
+               <item>2 <hi>Norfolk</hi> for Stuffs</item>
+               <item>2 <hi>Birmigham</hi> and <hi>Sheffeild</hi> for Iron-Ware</item>
+               <item>2 <hi>Devonſhire</hi> for Fiſhery</item>
+               <item>2 For <hi>Colcheſter,</hi> with ſome other Places as ſhall be thought fit may be added, <hi>&amp;c.</hi>
+               </item>
+            </list>
+            <p>
+               <table>
+                  <row>
+                     <cell>Suppoſe the Number be a Hundred (or more) Perſons in all, there will never meet one time with another above Forty, who may divide into Sub-Committees for the quicker diſpatch of Buſineſs, as they do in the <hi>Eaſt-India</hi> and <hi>African</hi> Companies; which at Ten Shillings A piece for each Time, and Meeting twice <hi>per</hi> Week, is Forty</cell>
+                     <cell>3000</cell>
+                  </row>
+                  <row>
+                     <cell>Pound <hi>per</hi> Week, which for Fifty Weeks is—</cell>
+                     <cell>3000</cell>
+                  </row>
+                  <row>
+                     <cell>The Chief Clerk and his Servants <hi>per Annum</hi>—</cell>
+                     <cell>0500</cell>
+                  </row>
+                  <row>
+                     <cell>And for Coach-Hire, Letters, Fire, Candle, and other neceſſary</cell>
+                     <cell>0500</cell>
+                  </row>
+                  <row>
+                     <cell>Expences—</cell>
+                     <cell>0500</cell>
+                  </row>
+                  <row>
+                     <cell role="total"> </cell>
+                     <cell>l. 4000</cell>
+                  </row>
+               </table>
+            </p>
+            <p>That they have power to Receive all Overtures relating to <hi>Trade,</hi> and to Grant Rewards ſuitable to thoſe Diſcoveries or Services that ſhall be rendred by any Perſon, out of the profit of their ſundry Diſcoveries, or otherwiſe, according as the Nature of ſuch Diſcovery ſhall be. To which Effect there are Thouſands who would offer conſiderable Mat<g ref="char:EOLhyphen"/>ters of vaſt Improvements did they know once whom to apply to.</p>
+            <p>That there be a Regiſter of their Votes for, and againſt every Matter.</p>
+            <p>That whatever Propoſals are offered to the Committee, ſhall be read three times before they be Rejected, and their Reaſons for ſuch Rejection ſhall be Annexed.</p>
+            <p>That the Committee ſhall have power to Chooſe their Officers, and to allow Sallaries (as before-mention'd) which they ſhall ſignifie by Certificate to the <hi>Lords</hi> of <hi>the Treaſury,</hi> who ſhall be Authoriz'd and Oblig'd to pay the ſame, together with the Ten Shillings apiece for the Commiſſioners, and ſuch Rewards as can't be taken out of ſome Propoſals.</p>
+            <p>That the ſaid Commiſſioners ſhall be oblig'd to give Their Maje<g ref="char:EOLhyphen"/>ſties (and Parliament when ſitting), and Account from time to time, of the growing Emoluments of Trade, and of the Obſtructions of the Ge<g ref="char:EOLhyphen"/>neral Improvement; That ſo from ſuch Reports Their Majeſties and the Parliament may the better be Advis'd how to make Laws ſutable for the Encouragement of the Publick Benefit.</p>
+            <p>Innumerable and almoſt Infinite are the Benefits which both King and People will reap from ſuch a Committee: And this Propoſer is ready to Impart to the ſaid Committee ſeveral Propoſals of Conſiderable Im<g ref="char:EOLhyphen"/>portance,
+<pb n="7" facs="tcp:153753:4"/>whereby he doubts not but they will be Enabled to Accom<g ref="char:EOLhyphen"/>pliſh all the great Deſigns here mention'd too Voluminous for him par<g ref="char:EOLhyphen"/>ticularly to inſert, or indeed to make Intelligible without mature De<g ref="char:EOLhyphen"/>bates before Perſons experienc'd in theſe Matters.</p>
+            <p>
+               <hi>Here we have at one View</hi> the Diſeaſes of our Languiſhing State re<g ref="char:EOLhyphen"/>preſented to us. Their Progreſs Trac'd through the Variety of their Fits and <hi>Paroxiſms,</hi> and the moſt ſuitable Medicines for our Recovery plainly pointed out, and ſet before us: The Embracing whereof will as undoubtedly Aſcertain our Happineſs, as the Neglect Enſure our Ruine, and Enhance our Miſery.</p>
+            <p>'Tis true indeed, that Peace is the greateſt of National Felicities, and ought to be our moſt deſirable Bleſſing, eſpecially if we look back to that Effuſion of Blood and Expence of Treaſure has already been made. And therefore to ſound the Trumpet for the Encouragement of War muſt be ſomewhat ungrateful in our Ears. However, when thoſe Two moſt Potent Motives, <hi>Honour</hi> and <hi>Intereſt</hi> lay that unavoidable neceſſity upon us, That 'tis impoſſible we can Sheath our Swords with any thing leſs than giving up our Necks to a moſt certain Slavery, <hi>War</hi> and only <hi>War</hi> is our Common Security. Peace made up with an Enemy, whoſe Power is too ſtrong, and his Fidelity to weak<g ref="char:punc">▪</g> is only a Cobweb-Lawn to break through at pleaſure, and a Reconciliation of Friendſhip with ſuch a Prince, is the only means to Impower him to be a more dangerous, becauſe then a more Surprizing Enemy. Should <hi>France</hi> in her preſent heighth of Greatneſs give a Ceſſation to her Hoſtility (as undoub<g ref="char:EOLhyphen"/>tedly her Circumſtances as formidable as now they are, would gladly Embrace, and poſſibly her ſelf make the firſt Court for a Peace, how Inglorious a one to us I will not determine) 'tis certain She can never give a Ceſſation to her Ambition: And 'tis as certain that War is only Rak'd up, not Quench'd, when the Coals of Ambition are ſtill Glow<g ref="char:EOLhyphen"/>ing, that at any Convenient Rupture may ſet it freſh a Blazing. To that <hi>Aſpirer</hi> that ſo viſibly aims at Univerſal <hi>Monarchy,</hi> Univerſal Peace can be no more than Diſguiſe and Stratagem. The Snake in the Graſs is but too notoriouſly to be ſuſpected under ſo falſe, how ſeemingly fair Bed of Flowers. In ſhort, in any preſent Accommodation with <hi>France,</hi> her holding her hand will be no other than to take Breath to enable her to make a ſtronger Blow.</p>
+            <p>Theſe Unanſwerable Truths conſidered, all Thoughts of preſent Peace with <hi>France</hi> carry that pernicious Face, that the Conſequences muſt be fa<g ref="char:EOLhyphen"/>tal For any ſuch Peace will be more grievous than a State of War. For our Neceſſary and Continual Watchfulneſs and Caution under ſuch a Peace would put us to ſuch a Charge, ſuch a Lingring and Continued Expence, that muſt be Infinitely more Frightful than the whole Load of a Vigorous and Puſhing War. 'Tis true, we may Flatter our ſelves with a ſhort hope of Reſt, but then we muſt ſleep in Armour, if we think to wake ſafe</p>
+            <p>Thus far appears the Viſible Neceſſity of Continuing the War with <hi>France,</hi> as to our Safety. Now let us conſider the Motives for Conti<g ref="char:EOLhyphen"/>nuing that War, as to our Profit and Advantages we ſhall receive from it. If it were poſſible a preſent Peace could be made with <hi>France,</hi> even without the foremention'd Frights and Hazards, That Safety and Secu<g ref="char:EOLhyphen"/>ity ſhould ſo hemm us round, that that Turbulent <hi>Monarch</hi> ſhould give us
+<pb n="8" facs="tcp:153753:5"/>no Terrours nor Alarms; and conſequently give us ſome ſmall Retrench<g ref="char:EOLhyphen"/>ment of our Cautionary Charge and Expence, yet what will be the Iſſue of this Peace? Firſt, We reſtore him the Free Trade with <hi>England;</hi> In which <hi>France</hi> receives Immenſe Sums <hi>per Annum</hi> of our Money more and above our Commerce in Goods Exchang'd with them. Next it will reſtore him all that free Commerce again with the reſt of the World, which during the War, has been ſo conſiderably Curtail'd, to the Intire Eaſe of all his now groaning Subjects, to the heartning his Tir'd and Fatigu'd Armies, and to the full Repleniſhing of his own (at preſent Ex<g ref="char:EOLhyphen"/>hauſted) Treaſures: and if at this Ebb of his Exchequer, with all thoſe Encumbrances, he is able to ſtand againſt the United Forces of Chriſten<g ref="char:EOLhyphen"/>dom; What will ſeveral Recruiting Years of Peace add to his Power? but the rendring him ſo much yet ſtronger, as to ſtart out again into ſome new War, and pour that Torrent upon us, (when leaſt ſuſpected, and when we are leaſt provided) which all <hi>Europe</hi> may not be able to ſtemm, And what then follows, Let our moſt dreadful Apprehenſions imagine.</p>
+            <p>Now under our preſent indiſpenſible Neceſſity of War, the Publick Benefits and Great End of this Committee of <hi>Trade</hi> will be this, That beſides the Impoveriſhing, and conſequently weakning of <hi>France,</hi> by Their care of Securing our Navigation from the <hi>French</hi> Rapine, <hi>&amp;c.</hi> They will likewiſe be able ſo far to Improve our preſent Trade, That our Additional Advantages thereby Gain'd to the Nation, ſhall more than pay for the War to the Eaſing of the greateſt part of our Burthen, and thereby the Chearing our Cauſe, and Edging our Swords, whilſt <hi>England</hi> has moreover this further Priviledge above the reſt of the <hi>Con<g ref="char:EOLhyphen"/>federacy,</hi> that whilſt the War is within their Bowels, we have the Hap<g ref="char:EOLhyphen"/>pyneſs of ſeeing it removed from our Doors. Our Purſes only feel the Pain of it, and this Remedy is the only Means to Cure that Pain; to<g ref="char:EOLhyphen"/>gether with many Unvaluable Helps this Committee will be able to ſupply the Government withal.</p>
+            <p>
+               <hi>Here it not too Vngrateful a Theme</hi> (for what is more diſtaſtful than the Remembrance of paſt Glories, and the Upbraidings of preſent ſhame?) The bare Recollection of our former Honour, and the Reflection on our preſent Remiſsneſs, would be ſufficient to awake our Drowſie Le<g ref="char:EOLhyphen"/>thargy, and Exalt the <hi>Engliſh Genius</hi> into the Noble Sphear of Antient Grandure. Can we pretend to have <hi>Engliſh</hi> Blood in our Veins, and ſuffer the Inſulting <hi>Monſieur</hi> to Raviſh our Darling <hi>Miſtreſs</hi> under our very Noſes! To Commit a Rape upon our <hi>Trade</hi> in our own <hi>Channel,</hi> and on our own Coaſt? Have our <hi>Fore-fathers</hi> with Expence of their blood and almoſt inſupportable Toyl paſt through an <hi>Ocean</hi> of hazards to Eſbaliſh our Title, and Aſſert the <hi>Engliſh</hi> right to the Seas, to extend our Trade and Commerce beyond our Plantations, and joyn'd the moſt diſtant parts of the World in a Correſpondence with us? Have they done thus much for us and ſhall we diſparage their Labours and Reproach our ſelves by a Stupid and Supine negligence? Have we not formerly been the Envy, as well as Terror of our Neighbours? elſe why have they of late ſo induſtriouſly Labour'd to bereave us of our peculiar Advantage, <hi>Trade,</hi> except they believ'd their Intereſt to Conſiſt in our Loſs, and that the Acquiſition of ſo Rich a <hi>Prize</hi> alone, would in reality place them as much above us, as we heretofore Eſteem'd them beneath our ſelves? Is a <hi>Jewel</hi> of ſuch Eſtimation not worth
+<pb n="9" facs="tcp:153753:5"/>the looking after, whoſe Beauty has Engaged the Hearts and Eyes of all that ever ſaw it? Whoſe ſingle Value is of that Importance, That whoſoever poſſeſſes it, has laid the Foundation of a Laſting and Con<g ref="char:EOLhyphen"/>tinued Greatneſs?</p>
+            <p>Let us Reflect now among our ſelves, how much it would redound to our Diſhonour, to be blind in thoſe Matters wherein our Anceſtors have ever had the Glory of Prudence and Foreſight. Infinite is the Re<g ref="char:EOLhyphen"/>putation this Little Iſland hath formerly atchiev'd abroad, upon as ma<g ref="char:EOLhyphen"/>ny ſeveral Accounts as ſhe has had occaſion to Employ her Subjects in Foreign Actions. But the Great Knowledge and Succeſs of her Inhabi<g ref="char:EOLhyphen"/>tants in the Miſtery of <hi>Trade</hi> hath ſet her ſo much upon the riſing Ground, and from that Eminence preſented her with ſo charming a Face, that they who neglected Courting her, were at the ſame time in Re<g ref="char:EOLhyphen"/>venge upon themſelves compell'd to envy her. And can we now ſuffer ſuch a <hi>Beauty</hi> to be Raviſhed; Such a Glory to be Sullyed, by the Vain<g ref="char:EOLhyphen"/>glorious attempts of that very Nation, that hath ſo often trembled at the ſound of <hi>Engliſh</hi> Arms, and muſt of neceſſity (had they not forfeited all pretence to Juſtice) own their paſt and future Succeſs alone to our Careleſneſs and Imprudence!</p>
+            <p>Let us therefore acquit our ſelves like Men, and Convince the Doubt<g ref="char:EOLhyphen"/>ful World that the <hi>Engliſh Lyon</hi> is awake, and that our Councils at home, and our Armies abroad are able ſtill to make good the Reputa<g ref="char:EOLhyphen"/>tion of our Records. The ſole Settlement of <hi>Trade</hi> would in Effect do our buſineſs: The Eſtabliſhment of <hi>That</hi> is an inexhauſted Spring of Happyneſs. It would make War it ſelf more Elegible and Eaſie than a Diſhonourable and Conſtrained Peace. The General Inconveniencies of it would hardly be felt, and that which to others is an Improveriſh<g ref="char:EOLhyphen"/>ment and Calamity, would to us be an Augmentation of Riches and Security. Nor would our Souldiers then be leſs terrible in the Field, than our Merchants thrivingly Glorious in the City: The one Depends on the other, and if the latter be ſubſtantially maintain'd, the former can never fail of Succeſs. Eſpecially at this time, when they have the beſt Cauſe upon Earth to fight for, and the Moſt Gallant and Skilful <hi>General</hi> Living to Head and Command them. For as the Caſe ſtands now, there are but two wayes, <hi>Victory</hi> or <hi>Slavery.</hi> We muſt either make the <hi>French</hi> ſtoop to us, or be forced to ſubmit to them. Whatever the <hi>Confederates</hi> may obtain from them, when they ſee their Opportuni<g ref="char:EOLhyphen"/>ty, I don't know, but this I am ſure of, There remains no Terms of Peace for us, but what would fix an Everlaſting Infamy upon the <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Name. In ſhort, the Greatneſs of <hi>England</hi> and <hi>France</hi> is incom<g ref="char:EOLhyphen"/>patible. If they riſe, we muſt fall; and the Richer they Grow, the Poorer we ſhall be. Their Glory will be Erected on our Ruine, and their Honour founded on our Shame.</p>
+            <p>Let us Aſſume then a Noble Reſolution, like that of the <hi>Old Romans</hi> againſt <hi>Carthage,</hi> who reſolv'd never to lay down their Swords till they had Humbled that City, till they had left her never a Fort at Land, nor Ship at Sea. Why ſtand we ſtill then, are the <hi>French</hi> more Couragious than the <hi>Carthaginians,</hi> or <hi>their Generals</hi> more Invincible than <hi>Haniball?</hi> Have we not a <hi>Royal Scipio</hi> at Land, and an <hi>Admiral</hi> at Sea who have given unanſwerable Proof that the <hi>French</hi> may be beaten. I would not be thought a <hi>Boutefeu</hi> and <hi>Incendiary,</hi> by perſwading to continue the War, Did I not from my Soul believe, that the Embracing the <hi>Method</hi>
+               <pb n="10" facs="tcp:153753:6"/>here propoſed would abundantly Enable the Government to ſupport the Charge of it, and that a Peace at this time, would Introduce far grea<g ref="char:EOLhyphen"/>ter and more certain Calamities. For if the <hi>French King,</hi> either by Force or Fraud (for he's for any Game rather than be Idle) Extends his Conqueſts through the <hi>Confederacy,</hi> we can expect no other favour but to be the laſt Devour'd, or Baſely Impos'd upon. Let us therefore purſue our Reſolutions, and take the Advantages that are now put into our hands. We may if we pleaſe make the War it ſelf Subminiſter to <hi>Trade,</hi> and be a Means of Enlarging <hi>Ours,</hi> whilſt at the ſame time we beat the <hi>French</hi> out of <hi>Theirs.</hi> Beſides, Can we boaſt of any thing we ever got by a Peace with <hi>France?</hi> 'Tis to be Attributed to our Improvi<g ref="char:EOLhyphen"/>dence alone, they have got ſo much by the War: Had we prevented their taking our Merchant-Men, <hi>France</hi> had been Beggar'd before now, and War had ended. They have ſupported themſelves at our Expence: Had we been more Careful, they had been leſs Powerful. The very Ships he hath taken from us hath ſerved to Equip his Royal Navy, and ſo much Encouraged his Privateers, that they are become the Nurſery of all his Seamen, without which he had never been able to ſend his Fleet to Sea. Nay, ſo haughty is he grown by theſe Succeſſes, that he hath often threatned to Land an Army upon us, and Invade us with our own Ships. In ſhort, our Loſſes maintain a very great Charge of his War: For if thoſe <hi>Merchandizes</hi> he hath taken from us, as <hi>Sugars, Tobacco,</hi> &amp;c. had been ſent to <hi>Holland</hi> and <hi>Hamburgh,</hi> The Product thereof would more than have paid our Army in <hi>Flanders.</hi> So that if theſe Miſcarria<g ref="char:EOLhyphen"/>ges are provided againſt for the future, It is impoſſible but that War muſt be more Beneficial to us than Peace: Seeing it is beyond Contradiction evident that our Commerce <hi>There,</hi> is as Miſchievous to us, as Advanta<g ref="char:EOLhyphen"/>gious to them: Whether we reſpect the Open or Clandeſtine <hi>Traffick.</hi> Firſt in the Quantity, by the vaſt over-Ballance of their Commodities, and next in the Quality, Thoſe which they receive from us, being alto<g ref="char:EOLhyphen"/>gether Neceſſary and Uſeful for them whilſt we Import nothing thence; but what we had better be without, and ſuch, which if our Vanity did not conſume for them, muſt in Effect periſh on their hands to the Infi<g ref="char:EOLhyphen"/>nite prejudice of that King and People.</p>
+            <p>But if there be a Neceſſity that our Luxury muſt be indulged, there is nothing to that purpoſe that <hi>France</hi> could afford, which the Induſtry of our <hi>Friends</hi> and <hi>Confederates</hi> cannot ſupply us withal: Having of late in their ſeveral Countreys ſet up the ſame Manufactories; which if the War continues, will be ſo Eſtabliſhed, that neither we nor they ſhall ever ſtand in need of being beholden <hi>to France</hi> for them again, to the Utter and Irreparable Damage of that <hi>Kingdom.</hi> And thereby we ſhall vent greater Quantities of our own Commodities in return for what we receive from them: Whilſt our <hi>Trade</hi> with <hi>France</hi> did nothing but furniſh us with <hi>Trifles</hi> in Lieu of thoſe vaſt Sums of Sterling they have drawn from us. And though we ſhall in a great Meaſure Enrich ſeveral of our <hi>Confederate</hi> Neighbours, as well as Advantage our ſelves, yet it will ne<g ref="char:EOLhyphen"/>ver put them into ſuch a condition of doing us hurt, as our <hi>Trade</hi> with <hi>France</hi> hath done.</p>
+            <pb n="11" facs="tcp:153753:6"/>
+            <p>Let us then embrace the offer'd occaſion, which by Improving our <hi>Trade,</hi> and Enriching the Nation, will afford us freſh, and almoſt cer<g ref="char:EOLhyphen"/>tain hopes of Victory, under the Conduct of a <hi>Daring</hi> and <hi>Couragious King,</hi> who ſeems to be a <hi>Bleſſing</hi> from Heaven beſtow'd upon us to re<g ref="char:EOLhyphen"/>advance the <hi>Engliſh</hi> Spirit, which the Luxury and Effeminacy of the <hi>Late Reigns</hi> had Stifled and Debauched, and not ſuffer our ſelves to Slum<g ref="char:EOLhyphen"/>ber in a Dangerous Indifference, till Invincible Miſchiefs awake us, to ſee our <hi>Neighbours</hi> Subdu'd, our <hi>Trade</hi> Expir'd, and a <hi>Triumphant</hi> Enemy at our Doors. And then I doubt not but that ſince the Safeties both of Us and our Allies are floating in one Common Bottom, and Fortifi'd by Mutual Intereſts, our Joynt Deſigns being vigorouſly puſh'd on, the Ballance of <hi>Chriſtendom,</hi> will ſoon be reduc'd to it's proper Standard and <hi>England</hi> once more be able to hold the Scales of <hi>Europe.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Samuel Crouch,</hi> at the Corner of <hi>Popes-Head-Alley,</hi> next <hi>Cornhil;</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
